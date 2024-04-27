@@ -1,1 +1,2 @@
 # SQL-Project-on-Olympics-History
+This project provides insights regarding the data about the Olympics history of 120 years from 1896 - 2016. There are two datasets which have been used for analysis here. One contains details about the athletes, their attributes and the team to which they belong. The other dataset includes details around different events which took place in different seasons of Olympics and the athletes who participated in them and brought in medals for their team.
